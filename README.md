@@ -19,10 +19,12 @@ To make people's lives easy and more manageable. Sometimes it can be overwhelmin
   * Moment.js
   * Bootstrap
 
+# Website link 
+https://fallf.github.io/faworkday/
+
 
 ## Authors
 fatou fall
-
 
 
 
