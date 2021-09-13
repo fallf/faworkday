@@ -22,6 +22,9 @@ To make people's lives easy and more manageable. Sometimes it can be overwhelmin
 # Website link 
 https://fallf.github.io/faworkday/
 
+## GitHub Link
+
+https://github.com/fallf/faworkday
 
 ## Authors
 fatou fall
